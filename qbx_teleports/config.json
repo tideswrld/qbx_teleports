@@ -1,0 +1,39 @@
+{
+    "teleports": [
+        [
+            {
+                "_name": "Elevator @ labs",
+                "coords": [3540.74, 3675.59, 20.99, 167.5],
+                "allowVehicle": false,
+                "ignoreGround": true,
+                "label": "Take Elevator Up",
+                "icon": "fas fa-elevator",
+                "radius": 1.0
+            },
+            {
+                "coords": [3540.74, 3675.59, 28.11, 172.5],
+                "allowVehicle": false,
+                "label": "Take Elevator Down",
+                "icon": "fas fa-elevator",
+                "radius": 1.0
+            }
+        ],
+        [
+            {
+                "_name": "Coke Processing Enter/Exit",
+                "coords": [909.49, -1589.22, 30.51, 91.74],
+                "allowVehicle": false,
+                "label": "Enter Coke Processing",
+                "icon": "fas fa-door-open",
+                "radius": 1.0
+            },
+            {
+                "coords": [1088.81, -3187.57, -38.99, 181.2],
+                "allowVehicle": false,
+                "label": "Leave",
+                "icon": "fas fa-door-open",
+                "radius": 1.0
+            }
+        ]
+    ]
+}
