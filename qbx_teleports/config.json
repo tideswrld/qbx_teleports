@@ -8,14 +8,18 @@
                 "ignoreGround": true,
                 "label": "Take Elevator Up",
                 "icon": "fas fa-elevator",
-                "radius": 1.0
+                "radius": 1.0,
+                "itemRequired": "elevator_key",
+                "itemVisibility": true
             },
             {
                 "coords": [3540.74, 3675.59, 28.11, 172.5],
                 "allowVehicle": false,
                 "label": "Take Elevator Down",
                 "icon": "fas fa-elevator",
-                "radius": 1.0
+                "radius": 1.0,
+                "itemRequired": "elevator_key",
+                "itemVisibility": true
             }
         ],
         [
@@ -25,14 +29,18 @@
                 "allowVehicle": false,
                 "label": "Enter Coke Processing",
                 "icon": "fas fa-door-open",
-                "radius": 1.0
+                "radius": 1.0,
+                "itemRequired": "coke_key",
+                "itemVisibility": true
             },
             {
                 "coords": [1088.81, -3187.57, -38.99, 181.2],
                 "allowVehicle": false,
                 "label": "Leave",
                 "icon": "fas fa-door-open",
-                "radius": 1.0
+                "radius": 1.0,
+                "itemRequired": "coke_key",
+                "itemVisibility": true
             }
         ]
     ]
