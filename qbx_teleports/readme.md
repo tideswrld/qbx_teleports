@@ -4,6 +4,9 @@ Modified teleportation between doors with advanced customization.
 
 This modified version of qbx_teleports improves the original by integrating Ox_Target, replacing DrawText interactions with a more immersive and configurable targeting system. It also introduces an optional item requirement feature, allowing server owners to restrict teleport access based on player inventory, with configurable visibility settings for restricted teleports.
 
+Showcase: 
+https://youtu.be/wW9oGOKuZXk
+
 Key Modifications:
 
   - Ox_Target Integration
