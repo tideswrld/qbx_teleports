@@ -6,6 +6,10 @@ Key Modifications:
 
   - Ox_Target Integration
 
+  - Ox_Inventory item checks (configurable/toggleable)
+
+  - Notify player when they do not have the required item
+
   - Removed 'E' keypress interactions and replaced them with target-based sphere zones for teleport activation.
 
   - Allows players to interact with teleport locations by looking at them rather than stepping into a zone and pressing a key.
